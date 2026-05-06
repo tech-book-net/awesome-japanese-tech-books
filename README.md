@@ -74,7 +74,6 @@
 
 - **問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本** by 米田優峻(技術評論社) — 数学的な発想とアルゴリズムを橋渡し。 [tech-book.net](https://www.tech-book.net/books/9784297125219)
 - **作ろう! CPU** by 上原周(マイナビ出版) — 自作 CPU を題材にコンピュータの基礎を学ぶ。 [tech-book.net](https://www.tech-book.net/books/9784839968519)
-- **文庫 思考する機械 コンピュータ** by ダニエル・ヒリス(草思社) — コンピュータが「考える」とはどういうことかをシンプルに解説。 [tech-book.net](https://www.tech-book.net/books/9784794220585)
 - **まったくゼロからの論理学** by 野矢茂樹(岩波書店) — プログラマが触れる論理学の入り口に最適。 [tech-book.net](https://www.tech-book.net/books/9784000248297)
 
 ## Engineering Practices
