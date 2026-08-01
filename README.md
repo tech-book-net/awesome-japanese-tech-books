@@ -4,7 +4,7 @@
 
 このリストは [tech-book.net](https://www.tech-book.net) 編集部が、サイト掲載書籍の中から **継続的に言及・推薦されている書籍** を分野別に整理したものです。
 
-外部の言及データ(技術ブログ・SNS の hatena ブックマーク・Qiita 言及・楽天ブックスの評価)を集約し、**1 分野あたり 3〜5 冊の定番**に絞っています。
+**1 分野あたり 3〜5 冊の定番**に絞っています。各書籍の詳しい解説・関連書は tech-book.net の各ページへ。
 
 ---
 
@@ -16,10 +16,15 @@
 - [Database](#database)
 - [Linux & OS](#linux--os)
 - [AI / Machine Learning](#ai--machine-learning)
+- [Generative AI / LLM](#generative-ai--llm)
 - [Cloud / DevOps / SRE](#cloud--devops--sre)
 - [Algorithms & Computer Science](#algorithms--computer-science)
+- [Frontend (React / TypeScript)](#frontend-react--typescript)
+- [Data Science & Statistics](#data-science--statistics)
+- [Security](#security)
 - [Engineering Practices](#engineering-practices)
 - [UX / Design Psychology](#ux--design-psychology)
+- [分野ごとにさらに探す](#分野ごとにさらに探す)
 - [License](#license)
 
 ---
@@ -65,6 +70,14 @@
 - **生成AI時代の価値のつくりかた** by Rob Thomas ほか(オライリー・ジャパン) — 経営・プロダクト視点での生成 AI 活用論。 [tech-book.net](https://www.tech-book.net/books/9784814401291)
 - **セキュリティエンジニアのための機械学習** by Chiheb Chebbi ほか(オライリー・ジャパン) — 攻撃検知・脅威分析への ML 活用。 [tech-book.net](https://www.tech-book.net/books/9784873119076)
 
+## Generative AI / LLM
+
+- **大規模言語モデル入門** by 山田育矢・鈴木正敏ほか(技術評論社) — transformers を使いながら LLM の仕組みと日本語処理を学ぶ体系的入門。 [tech-book.net](https://www.tech-book.net/books/9784297136338)
+- **大規模言語モデル入門2 生成型LLMの実装と評価** by 山田育矢ほか(技術評論社) — 続編。生成型 LLM の学習・評価・RLHF まで実装ベースで扱う。 [tech-book.net](https://www.tech-book.net/books/9784297143930)
+- **LLMのプロンプトエンジニアリング** by John Berryman・Albert Ziegler(オライリー・ジャパン) — GitHub Copilot の開発経験に基づくプロンプト設計の原理。 [tech-book.net](https://www.tech-book.net/books/9784814401130)
+- **Azure OpenAI ServiceではじめるChatGPT/LLMシステム構築入門** by 永田祥平ほか(技術評論社) — RAG 構成を含む業務システムへの LLM 組み込みの実践書。 [tech-book.net](https://www.tech-book.net/books/9784297139292)
+- **AIエージェント開発 / 運用入門** by 御田稔ほか(SBクリエイティブ) — エージェント設計・ツール連携・運用までを扱う生成 AI 深掘りガイド。 [tech-book.net](https://www.tech-book.net/books/9784815636609)
+
 ## Cloud / DevOps / SRE
 
 - **AWS運用入門** by 佐竹陽一・山崎翔平ほか(SBクリエイティブ) — AWS の運用・監視・コスト最適化の実践書。 [tech-book.net](https://www.tech-book.net/books/9784815615499)
@@ -76,6 +89,26 @@
 - **作ろう! CPU** by 上原周(マイナビ出版) — 自作 CPU を題材にコンピュータの基礎を学ぶ。 [tech-book.net](https://www.tech-book.net/books/9784839968519)
 - **まったくゼロからの論理学** by 野矢茂樹(岩波書店) — プログラマが触れる論理学の入り口に最適。 [tech-book.net](https://www.tech-book.net/books/9784000248297)
 
+## Frontend (React / TypeScript)
+
+- **TypeScriptとReact/Next.jsでつくる実践Webアプリケーション開発** by 手島拓也・吉田健人・高林佳稀(技術評論社) — 型安全な SPA/SSR 開発を一気通貫で扱う実践書。 [tech-book.net](https://www.tech-book.net/books/9784297129163)
+- **Reactハンズオンラーニング 第2版** by Alex Banks・Eve Porcello(オライリー・ジャパン) — 関数コンポーネントと Hooks 前提で React の考え方を学ぶ。 [tech-book.net](https://www.tech-book.net/books/9784873119380)
+- **実践TypeScript** by 吉井健文(マイナビ出版) — BFF・Next.js/Nuxt.js の型定義など、現場の型設計に踏み込む。 [tech-book.net](https://www.tech-book.net/books/9784839969370)
+
+## Data Science & Statistics
+
+- **統計学入門** by 東京大学教養学部統計学教室 編(東京大学出版会) — 「赤本」の通称で知られる統計学の定番教科書。 [tech-book.net](https://www.tech-book.net/books/9784130420655)
+- **はじめてのパターン認識** by 平井有三(森北出版) — 機械学習の基礎理論を数式で追う定番テキスト。 [tech-book.net](https://www.tech-book.net/books/9784627849716)
+- **異常検知と変化検知** by 井手剛・杉山将(講談社) — 機械学習プロフェッショナルシリーズ。実務頻出の異常検知を体系化。 [tech-book.net](https://www.tech-book.net/books/9784061529083)
+- **東京大学のデータサイエンティスト育成講座** by 塚本邦尊ほか(マイナビ出版) — Python での前処理〜モデリングを演習形式で通す。 [tech-book.net](https://www.tech-book.net/books/9784839965259)
+
+## Security
+
+- **暗号技術入門 第3版** by 結城浩(SBクリエイティブ) — 共通鍵・公開鍵・署名・証明書を平易に解き明かす定番。 [tech-book.net](https://www.tech-book.net/books/9784797382228)
+- **おうちで学べるセキュリティのきほん** by 増井敏克(翔泳社) — 手を動かして学ぶセキュリティの最初の一冊。 [tech-book.net](https://www.tech-book.net/books/9784798141770)
+- **Webセキュリティ担当者のための脆弱性診断スタートガイド 第2版** by 上野宣(翔泳社) — 診断の始め方・ツール・報告までの実務ガイド。 [tech-book.net](https://www.tech-book.net/books/9784798159164)
+- **ハッキング・ラボのつくりかた** by IPUSIRON(翔泳社) — 仮想環境で攻撃手法を安全に体験しながら防御を学ぶ。 [tech-book.net](https://www.tech-book.net/books/9784798155302)
+
 ## Engineering Practices
 
 - **いちばんやさしいアジャイル開発の教本** by 市谷聡啓・新井剛・小田中育生(インプレス) — アジャイルの実態を経験豊富な著者陣が解説。 [tech-book.net](https://www.tech-book.net/books/9784295008835)
@@ -83,6 +116,24 @@
 ## UX / Design Psychology
 
 - **インタフェースデザインの心理学 第2版** by Susan Weinschenk(オライリー・ジャパン) — UX を心理学の知見から裏付ける定番書。 [tech-book.net](https://www.tech-book.net/books/9784873119458)
+
+---
+
+## 分野ごとにさらに探す
+
+tech-book.net の[テーマ別さくいん](https://www.tech-book.net/themes)では、上記を含む 100 超のテーマごとに書籍と解説をまとめています。
+
+[Python](https://www.tech-book.net/themes/python) ·
+[機械学習](https://www.tech-book.net/themes/machine-learning) ·
+[生成AI](https://www.tech-book.net/themes/generative-ai) ·
+[セキュリティ](https://www.tech-book.net/themes/security) ·
+[データサイエンス](https://www.tech-book.net/themes/data-science) ·
+[React](https://www.tech-book.net/themes/react) ·
+[TypeScript](https://www.tech-book.net/themes/typescript) ·
+[AWS](https://www.tech-book.net/themes/aws) ·
+[Kubernetes](https://www.tech-book.net/themes/kubernetes) ·
+[Linux](https://www.tech-book.net/themes/linux) ·
+[アルゴリズム](https://www.tech-book.net/themes/algorithms)
 
 ---
 
